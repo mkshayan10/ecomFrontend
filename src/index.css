@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+.neon-glow-purple {
+  text-shadow: 0 0 10px #a855f7, 0 0 20px #a855f7, 0 0 40px #a855f7;
+}
+
+.neon-card {
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.3);
+  backdrop-filter: blur(20px);
+}
+
+.neon-footer {
+  box-shadow: 0 -5px 20px rgba(168, 85, 247, 0.3);
+}
+
+.neon-btn {
+  box-shadow: 0 0 15px rgba(168, 85, 247, 0.6);
+}
